@@ -1,0 +1,12 @@
+{
+  "name": "apple-serial",
+  "version": "1.0.0",
+  "description": "Search for Apple serial numbers",
+  "main": "index.js",
+  "author": "Josh Brown",
+  "license": "MIT",
+  "bin": "./bin/apple-serial.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
